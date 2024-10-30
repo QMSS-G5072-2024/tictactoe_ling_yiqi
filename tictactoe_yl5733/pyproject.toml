@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "tictactoe_yl5733"
+version = "0.1.0"
+description = "This is a python package that managies and tests the core functionality of a tic-tac-toe game."
+authors = ["Yiqi Ling"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
