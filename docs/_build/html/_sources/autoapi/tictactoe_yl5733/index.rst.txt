@@ -1,0 +1,28 @@
+tictactoe_yl5733
+================
+
+.. py:module:: tictactoe_yl5733
+
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 1
+
+   /autoapi/tictactoe_yl5733/tictactoe_yl5733/index
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   tictactoe_yl5733.__version__
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+
