@@ -1,2 +1,25 @@
-# tictactoe_ling_yiqi
-This is hw07 for GR5072, creating a package for managing and testing the core functionality of a Tic-Tac-Toe game.
+# tictactoe_yl5733
+
+This is a python package that managies and tests the core functionality of a tic-tac-toe game.
+
+## Installation
+
+```bash
+$ pip install tictactoe_yl5733
+```
+
+## Usage
+
+- TODO
+
+## Contributing
+
+Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
+
+## License
+
+`tictactoe_yl5733` was created by Yiqi Ling. It is licensed under the terms of the MIT license.
+
+## Credits
+
+`tictactoe_yl5733` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
