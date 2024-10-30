@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tictactoe_yl5733"
-version = "0.1.0"
+version = "0.1.2"
 description = "This is a python package that managies and tests the core functionality of a tic-tac-toe game."
 authors = ["Yiqi Ling"]
 license = "MIT"
